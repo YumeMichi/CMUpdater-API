@@ -1,0 +1,16 @@
+{
+ "id": null,
+ "result": [
+    {
+    "url": "http://download.ikke.moe/OnePlusX/CM12.1/cm-12.1-20160102-UNOFFICIAL-onyx.zip",
+    "timestamp": "1451776800",
+    "api_level": "22",
+    "md5sum": "af13183d2e4b762efabe95c6a34bd1bb",
+    "filename": "cm-12.1-20160102-UNOFFICIAL-onyx.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    }
+  ],
+ "error": null
+}
