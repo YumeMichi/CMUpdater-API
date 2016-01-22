@@ -10,6 +10,16 @@
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
+    },
+    {
+    "url": "http://download.ikke.moe/OnePlusX/CM13.0/cm-13.0-20160121-UNOFFICIAL-onyx.zip",
+    "timestamp": "1453265563",
+    "api_level": "23",
+    "md5sum": "6624a1c275ba45f8c396a02c3ecdddc8",
+    "filename": "cm-13.0-20160121-UNOFFICIAL-onyx.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
     }
   ],
  "error": null
