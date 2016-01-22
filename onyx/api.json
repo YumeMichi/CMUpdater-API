@@ -2,11 +2,11 @@
  "id": null,
  "result": [
     {
-    "url": "http://download.ikke.moe/OnePlusX/CM13.0/cm-13.0-20160103-UNOFFICIAL-onyx.zip",
-    "timestamp": "1451855640",
+    "url": "http://download.ikke.moe/OnePlusX/CM13.0/cm-13.0-20160118-UNOFFICIAL-onyx.zip",
+    "timestamp": "1453135262",
     "api_level": "23",
-    "md5sum": "22d5ca610c289112f4e55229dcbb51bc",
-    "filename": "cm-13.0-20160103-UNOFFICIAL-onyx.zip",
+    "md5sum": "c2c8d54638323f7d7baf129bd2880ec3",
+    "filename": "cm-13.0-20160118-UNOFFICIAL-onyx.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
