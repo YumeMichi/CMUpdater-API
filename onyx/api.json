@@ -22,5 +22,16 @@
     "incremental": ""
     }
   ],
+  {
+    "url": "http://pan.baidu.com/s/1sjWGJ97",
+    "timestamp": "1454606837",
+    "api_level": "23",
+    "md5sum": "7a8a830af134fa7406428d1d825c802b",
+    "filename": "cm-13.0-20160204-UNOFFICIAL-onyx.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    }
+  ],
  "error": null
 }
