@@ -20,61 +20,56 @@
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
-    }
-  ],
-  {
-    "url": "http://pan.baidu.com/s/1sjWGJ97",
-    "timestamp": "1454606837",
-    "api_level": "23",
-    "md5sum": "7a8a830af134fa7406428d1d825c802b",
-    "filename": "cm-13.0-20160204-UNOFFICIAL-onyx.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    }
-  ],
-  {
-    "url": "http://pan.baidu.com/s/1kUrYgKJ",
-    "timestamp": "1456019261",
-    "api_level": "23",
-    "md5sum": "e80078d4596c89b1cfbe607753aa8ef7",
-    "filename": "cm-13.0-20160221-UNOFFICIAL-onyx.zip",
-    "channel": "STABLE",
-    "changes": "",
-    "incremental": ""
-    }
-  ],
-  {
-    "url": "http://pan.baidu.com/s/1i3RHSPZ",
-    "timestamp": "1456884806",
-    "api_level": "23",
-    "md5sum": "af56e8be7f495286701170e849734454",
-    "filename": "cm-13.0-20160302-UNOFFICIAL-onyx.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    }
-  ],
-  {
-    "url": "http://pan.baidu.com/s/1kUsc4IV",
-    "timestamp": "1456971376",
-    "api_level": "23",
-    "md5sum": "44bd5eacd788c394bab1f1cae468fd45",
-    "filename": "cm-13.0-20160303-UNOFFICIAL-onyx.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    }
-  ],
-  {
-    "url": "http://pan.baidu.com/s/1geuUknD",
-    "timestamp": "1457336527",
-    "api_level": "23",
-    "md5sum": "eeb351a58a26504a4d02b45e793ac4d6",
-    "filename": "cm-13.0-20160307-UNOFFICIAL-onyx.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
+    },
+    {
+     "url": "http://pan.baidu.com/s/1sjWGJ97",
+     "timestamp": "1454606837",
+     "api_level": "23",
+     "md5sum": "7a8a830af134fa7406428d1d825c802b",
+     "filename": "cm-13.0-20160204-UNOFFICIAL-onyx.zip",
+     "channel": "NIGHTLY",
+     "changes": "",
+     "incremental": ""
+    },
+    {
+     "url": "http://pan.baidu.com/s/1kUrYgKJ",
+     "timestamp": "1456019261",
+     "api_level": "23",
+     "md5sum": "e80078d4596c89b1cfbe607753aa8ef7",
+     "filename": "cm-13.0-20160221-UNOFFICIAL-onyx.zip",
+     "channel": "STABLE",
+     "changes": "",
+     "incremental": ""
+    },
+    {
+     "url": "http://pan.baidu.com/s/1i3RHSPZ",
+     "timestamp": "1456884806",
+     "api_level": "23",
+     "md5sum": "af56e8be7f495286701170e849734454",
+     "filename": "cm-13.0-20160302-UNOFFICIAL-onyx.zip",
+     "channel": "NIGHTLY",
+     "changes": "",
+     "incremental": ""
+    },
+    {
+     "url": "http://pan.baidu.com/s/1kUsc4IV",
+     "timestamp": "1456971376",
+     "api_level": "23",
+     "md5sum": "44bd5eacd788c394bab1f1cae468fd45",
+     "filename": "cm-13.0-20160303-UNOFFICIAL-onyx.zip",
+     "channel": "NIGHTLY",
+     "changes": "",
+     "incremental": ""
+    },
+    {
+     "url": "http://pan.baidu.com/s/1geuUknD",
+     "timestamp": "1457336527",
+     "api_level": "23",
+     "md5sum": "eeb351a58a26504a4d02b45e793ac4d6",
+     "filename": "cm-13.0-20160307-UNOFFICIAL-onyx.zip",
+     "channel": "NIGHTLY",
+     "changes": "",
+     "incremental": ""
     }
   ],
  "error": null
