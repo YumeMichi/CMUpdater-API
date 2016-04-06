@@ -120,6 +120,16 @@
      "channel": "NIGHTLY",
      "changes": "",
      "incremental": ""
+    },
+    {
+     "url": "http://rom.ikke.moe/onyx/cm-13.1-20160406-UNOFFICIAL-onyx.zip",
+     "timestamp": "1459944259",
+     "api_level": "23",
+     "md5sum": "4fd8b0167e09ac31c4ebdc5cd60f7998",
+     "filename": "cm-13.1-20160406-UNOFFICIAL-onyx.zip",
+     "channel": "NIGHTLY",
+     "changes": "",
+     "incremental": ""
     }
   ],
  "error": null
