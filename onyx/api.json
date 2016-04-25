@@ -2,11 +2,11 @@
  "id": null,
  "result": [
     {
-     "url": "http://rom.ikke.moe/onyx/cm-13.1-20160406-UNOFFICIAL-onyx.zip",
-     "timestamp": "1459944259",
+     "url": "http://rom.ikke.moe/onyx/cm-13.1-20160424-UNOFFICIAL-onyx.zip",
+     "timestamp": "1461507353",
      "api_level": "23",
-     "md5sum": "4fd8b0167e09ac31c4ebdc5cd60f7998",
-     "filename": "cm-13.1-20160406-UNOFFICIAL-onyx.zip",
+     "md5sum": "e056040c2b96433a8675d1270e0d2878",
+     "filename": "cm-13.1-20160424-UNOFFICIAL-onyx.zip",
      "channel": "NIGHTLY",
      "changes": "",
      "incremental": ""
