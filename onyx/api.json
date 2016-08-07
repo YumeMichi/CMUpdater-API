@@ -2,11 +2,11 @@
  "id": null,
  "result": [
     {
-     "url": "https://rom.ikke.moe/onyx/cm-13.1-20160617-STABLE-YumeMichi-onyx.zip",
-     "timestamp": "1466167590",
+     "url": "https://rom.ikke.moe/cm-13.0.1-20160807-STABLE-YumeMichi-onyx.zip",
+     "timestamp": "1470550295",
      "api_level": "23",
-     "md5sum": "e4135b40486f1a57fb649b09372ee668",
-     "filename": "cm-13.1-20160617-STABLE-YumeMichi-onyx.zip",
+     "md5sum": "26f840dd97d8c659b0d07713ef08850f",
+     "filename": "cm-13.0.1-20160807-STABLE-YumeMichi-onyx.zip",
      "channel": "NIGHTLY",
      "changes": "",
      "incremental": ""
