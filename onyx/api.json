@@ -1,16 +1,12 @@
 {
- "id": null,
- "result": [
+  "response": [
     {
-     "url": "https://rom.ikke.moe/lineage-OMS-14.1-20170226-UNOFFICIAL-YumeMichi-onyx.zip",
-     "timestamp": "1488124501",
-     "api_level": "25",
-     "md5sum": "204dae151a8c92a7d1cd84e81669bd76",
-     "filename": "lineage-OMS-14.1-20170226-UNOFFICIAL-YumeMichi-onyx.zip",
-     "channel": "NIGHTLY",
-     "changes": "",
-     "incremental": ""
+      "datetime": 1488124501, 
+      "filename": "lineage-OMS-14.1-20170226-UNOFFICIAL-YumeMichi-onyx.zip", 
+      "id": "204dae151a8c92a7d1cd84e81669bd76", 
+      "romtype": "unofficial", 
+      "url": "https://rom.ikke.moe/lineage-OMS-14.1-20170226-UNOFFICIAL-YumeMichi-onyx.zip", 
+      "version": "14.1"
     }
-  ],
- "error": null
+  ]
 }
